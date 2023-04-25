@@ -14,7 +14,7 @@ Jupyter Notebook
 [Download here](https://github.com/reginamao/pythonwebcrawler/blob/main/Bing%20X_Trade%20History%20by%20Selenium.ipynb)
 
 ## Result
-![ReginaMao](https://imgur.com/undefined.png "Tradehistory")
+![ReginaMao](https://imgur.com/aaxVuem.png "Tradehistory")
 
 ## Reference Source
 [https://hackmd.io/@aaronlife/python-topic-selenium](https://hackmd.io/@aaronlife/python-topic-selenium)
