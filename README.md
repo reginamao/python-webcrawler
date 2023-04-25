@@ -1,6 +1,6 @@
 # 動態網頁爬蟲- 歷史交易記錄 by Selenium
 
-## Backgroud
+## Background
 透過歷史交易紀錄，研究量化交易的觸發點。
 
 ## User Path
