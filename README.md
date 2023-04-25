@@ -8,7 +8,7 @@
 * 再點View More，動態網頁爬蟲整個Trade History的記錄
 
 ## Environment
-Jupyter Notebook 
+Jupyter Notebook, Bing X
 
 ## Package
 Python Selenium, webdriver, pandas
